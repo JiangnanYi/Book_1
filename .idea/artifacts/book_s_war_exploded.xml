@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="book_s:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/book_s_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="book_s/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="book_s" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="E:/sitemesh-2.4.2.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
